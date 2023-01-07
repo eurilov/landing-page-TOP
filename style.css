@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: flex-start;
+    gap: 8px;
+}
+
+.logo{
+    height: auto;
+    width: 50px;
+   
+}
+
+.intro{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    background-color: ;
+    color: white;
+    padding: 50px;
+    background-color: black;
+}
+
+h1{
+    flex: 0 1 60%;
+
+}
+.ninja{
+height: auto;
+width: 30%;
+background-color: rgb(177, 60, 42);
+border: black solid;
+padding: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a{
+    text-decoration: none;
+}
